@@ -1,0 +1,41 @@
+.navbar {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(117, 98, 98);
+}
+#logo {
+    height: 50%;
+    width: 50%;
+}
+#flag {
+    height: 50%;
+    width: 50%;
+    justify-content: center;
+}
+
+nav {
+    flex-direction: row;
+    display: flex;
+    padding: 5px;
+    margin: 5px;
+}
+
+
+    @font-face {
+        font-family: pokemon;
+        src: url('../../../public/fonts/PokemonSolid.ttf');
+    }
+.welcome {
+    font-family: pokemon, sans-serif;
+    src: url('../../../public/fonts/PokemonSolid.ttf');
+    color: rgb(21, 52, 80);
+    letter-spacing: 2px;
+    font-size: 55px;
+}
+
+p {
+    padding: 5px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(37, 150, 190);
+}
