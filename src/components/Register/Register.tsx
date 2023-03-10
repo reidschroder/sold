@@ -317,7 +317,7 @@ const Register: React.FC<any> = () => {
               <option value="https://flagcdn.com/32x24/uy.png">Uruguay</option>
               <option value="https://flagcdn.com/32x24/vu.png">Vanuatu</option>
               <option value="https://flagcdn.com/32x24/ve.png">Venezuela</option>
-              <option value="https://flagcdn.com/32x24/vn.png">Viet Nam</option>
+              <option value="https://flagcdn.com/32x24/vn.png">Vietnam</option>
               <option value="https://flagcdn.com/32x24/vg.png">Virgin Islands, British</option>
               <option value="https://flagcdn.com/32x24/vi.png">Virgin Islands, U.s.</option>
               <option value="https://flagcdn.com/32x24/ye.png">Yemen</option>
